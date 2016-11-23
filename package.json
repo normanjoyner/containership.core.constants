@@ -1,0 +1,24 @@
+{
+  "name": "containership.core.constants",
+  "version": "0.0.0",
+  "description": "Constants library for core containership functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/containership/containership.core.constants.git"
+  },
+  "keywords": [
+    "containership",
+    "core",
+    "constants"
+  ],
+  "author": "ContainerShip Developers <developers@containership.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/containership/containership.core.constants/issues"
+  },
+  "homepage": "https://github.com/containership/containership.core.constants"
+}
