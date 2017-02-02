@@ -9,6 +9,8 @@ const constants = {
         CONTAINERS_PREFIX: ['containership', 'containers'],
         DELIMITER: '::',
         ENOKEY: 'ENOKEY',
+        PLUGINS: ['containership', 'plugins', '*'],
+        PLUGINS_PREFIX: ['containership', 'plugins'],
         VARIABLES: ['containership', 'variables', '*'],
         VARIABLES_PREFIX: ['containership', 'variables'],
         TIDE_JOBS: ['containership', 'tide-jobs']
